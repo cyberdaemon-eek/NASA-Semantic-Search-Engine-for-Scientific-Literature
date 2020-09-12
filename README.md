@@ -16,7 +16,7 @@ cd NASA-Semantic-Search-Engine-for-Scientific-Literature
 3. Go into `edit` > `notebook settings` under `hardware accelerator` and select `GPU`
 4. To run each cell, press `shift` + `return`
 5. Under the heading `BERT Sentence Transformer Semantic Search`, in the `queries` list, add your scientific query of choice
-6. Run that cell to recieve searched literature documents
+6. Run that cell to receive searched literature documents
 
 ### Figma Mockup
 1. Create background frame `#F3F3F3` for web application
@@ -29,7 +29,7 @@ cd NASA-Semantic-Search-Engine-for-Scientific-Literature
     * entered query in search bar
     * relevancy score
     * main author(s)
-6. Place pagination varibales at the end
+6. Place pagination variables at the end
 7. Place page navigation number
 
 ### Flask Application Setup
